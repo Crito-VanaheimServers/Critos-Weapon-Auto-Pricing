@@ -35,7 +35,8 @@ Your done now you can move the information where you need. You can Alt+Tab in an
 settings for the tool without restarting, just make sure to save changes to the config.sqf each time for changes to work.
 If you want a different mod than you will have to close arma and load a new mod to run with it.
 
-**************EXAMPLE OF PASTED RESULTS BELOW**************
+EXAMPLE OF PASTED RESULTS BELOW
+
 /////PRICING/////
 
 //HAND GUNS:
